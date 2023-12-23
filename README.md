@@ -1,4 +1,4 @@
-Olá, meu nome é Kaique 👋
+Olá👋, meu nome é Kaique.
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Estudo sobre React e JavaScript
