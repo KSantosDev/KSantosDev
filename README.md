@@ -1,6 +1,6 @@
 Olá👋, meu nome é Kaique.
 - 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudo sobre React e JavaScript
+- 🌱 Estudo sobre React e TypeScript
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript, React
 - 📫 Contate-me em: kgsantos.dev@gmail.com
   
